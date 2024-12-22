@@ -15,12 +15,13 @@ My goal is to contribute to the defensive side of cybersecurity by focusing on t
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| Knowledge of network protocols (TCP/IP, DNS), implementing firewalls, and monitoring network traffic using Wireshark.         | <a href="https://google.com">Detection Lab</a>|
+| Recognized common cybersecurity threats, mitigated risks with proactive solutions, and documented findings.| <a href="https://google.com">Detection Lab</a>|
+| Investigated the incident, identified root causes, and documented a response plan to prevent recurrence.         | SOC Automation Lab|
+| Conducted scans, analyzed results, and recommended remediation strategies to reduce security risks.     | SOC Automation Lab|
+| Familiarity with SIEM tools, endpoint security software, and analyzing log data to detect anomalies. | SOC Automation Lab|
+| Applied encryption and hashing techniques to protect data confidentiality and integrity. | SOC Automation Lab|
+| Evaluated risks, proposed mitigation strategies, and ensured alignment with security frameworks.| SOC Automation Lab|
 
 ## Tools
 [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
@@ -48,11 +49,9 @@ My goal is to contribute to the defensive side of cybersecurity by focusing on t
 ## Certifications
 [Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Professional%20Certificate-4285F4?&style=for-the-badge&logo=Google&logoColor=white" />
+
+
 </div>
 
 ## Projects
